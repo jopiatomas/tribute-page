@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#title-div{
+    width: 100% ;
+    margin-top: 3vw;
+    background-color: rgb(255, 237, 213);
+}
+
+#img-div{
+    margin-top: 5%;
+}
+#image{
+    display: block;
+    max-width: 100%;
+}
+
+#tribute-info{
+    margin-top: 5%;
+}
+
+#title-info{
+    margin-bottom: 50px;
+}
+ul{
+    text-align: left;
+    font-size: 1.2rem;
+}
+#tribute-info li{
+    padding-top: 10px;
+}
+#tribute-footer{
+    margin: 30px 0;
+}
+#tribute-link{
+    color: black;
+}

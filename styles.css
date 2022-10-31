@@ -45,3 +45,16 @@ ul{
 #tribute-link{
     color: black;
 }
+
+footer{
+    background-color: rgb(255, 237, 213);
+    height: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+}
